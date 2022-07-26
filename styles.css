@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
+input{
+    position: relative;
+}
+
+button{
+    position: absolute;
+    
+}
